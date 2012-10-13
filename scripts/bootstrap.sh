@@ -1,4 +1,4 @@
-#!/bon/sh
+#!/bin/sh
 BASEDIR=$(dirname $0)
 cd $BASEDIR/../
 git submodule init
