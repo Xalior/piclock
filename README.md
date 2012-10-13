@@ -1,4 +1,4 @@
-#piclock
+\#piclock
 ========
 
 A bootable "clock" distro for your RaPi.
